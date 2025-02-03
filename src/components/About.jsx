@@ -38,7 +38,7 @@ const About = () => {
                 Email
               </a>
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1bjqjPTCkLWBYIQuumsC_dq-HkXVAS367/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-gray-900/50 text-white px-6 py-2 rounded-full hover:bg-gray-800/50 transition-colors"
